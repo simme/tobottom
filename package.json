@@ -1,5 +1,5 @@
 {
-  "name": "toBottom",
+  "name": "tobottom",
   "main": "toBottom.js",
   "version": "1.0.0",
   "description": "Returns the distance (in pixels) to the bottom of the browser window.",
